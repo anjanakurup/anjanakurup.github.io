@@ -37,3 +37,17 @@ html{
     color: black;
     font-weight: bold;
 }
+
+#popup{
+    z-index: 2;
+    position: fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: gray;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.5s ease;
+}
