@@ -1,4 +1,11 @@
 #app{
-    
-    
+    width: 30%;
+    padding: 3%;
+    border-radius: 10px;
+    box-shadow: 8px 8px 15px lightgray;
+    text-align: center;
+    margin: center;
+    top: 0;
+    bottom: 0;
+    margin: auto;
 }
