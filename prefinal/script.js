@@ -13,5 +13,5 @@ function showAcademy(){
     document.location=ccUrl;
 }
 function newTabAcademy(){
-    window.open=(ccUrl);
+    window.open(ccUrl);
 }
