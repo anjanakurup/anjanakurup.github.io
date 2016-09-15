@@ -8,6 +8,6 @@
     top: 0;
     bottom: 0;
     margin: auto;
-    display: absolute;
+    position: fixed;
     height: 50%;
 }
