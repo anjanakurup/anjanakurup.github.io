@@ -8,10 +8,10 @@ btn.onmousedown = showAcademy;
 btn.onmousedown = newTabAcademy;
 
 
-function showAcademy(){
+function myCodecademy(){
     //alert("going to: "+ ccUrl);
     document.location=ccUrl;
 }
-function newTabAcademy(){
+function greetings(){
     window.open(ccUrl);
 }
