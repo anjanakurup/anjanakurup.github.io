@@ -4,11 +4,14 @@ body{
     font-family: no sans-serif;
 }
 #menu{
+    text-align: center;
     background-color: teal;
     width: 30%;
     height: 20%;
     padding: 5%;
     box-shadow: 5px 5px 10px black;
-    
+    margin: auto;
+    position: fixed;
+   
     
 }

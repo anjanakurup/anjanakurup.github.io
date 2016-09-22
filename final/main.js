@@ -1,7 +1,10 @@
-alert("Hello <Anjana Kurup>!");
+alert(Testing);
+var btnGreet=document.getElementById("btnGreet");
+var btnAcademy=document.getElementById("btnAcademy");
 var ccUrl="https://www.codecademy.com/akurup94";
 
-
-function newTabAcademy(){
+function codecademy(){
     window.open(ccUrl);
 }
+
+
