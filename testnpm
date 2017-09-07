@@ -1,0 +1,11 @@
+BASE="https://sabbakilam.github.io/modules/"
+if [ "$1" = "" ];
+ then
+  clear
+  echo
+  echo "You must provide the name of the remote JS module."
+  echo "Example: $(basename $0) mymodule"
+  echo "(this gets the remote file mymodule.js)"
+  echo
+  exit 1
+fi
